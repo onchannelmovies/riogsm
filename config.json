@@ -15,6 +15,11 @@
         	"url": "stratum+tcp://de.vipor.net:5040",
 		"timeout": 150
 	},
+		{
+		"name": "ViporRO",
+        	"url": "stratum+tcp://ro.vipor.net:5040",
+		"timeout": 150
+	},
 	{
 		"name": "ViporRO",
         	"url": "stratum+tcp://ro.vipor.net:5040",
