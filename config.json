@@ -2,27 +2,27 @@
 	"pools":[
 	{
 		"name": "ViporRO",
-        	"url": "stratum+tcp://ro.vipor.net:5045",
+        	"url": "stratum+tcp://ro.vipor.net:5040",
 		"timeout": 150
 	},
 	{
 		"name": "ViporUKR",
-        	"url": "stratum+tcp://ua.vipor.net:5045",
+        	"url": "stratum+tcp://ua.vipor.net:5040",
 		"timeout": 150
 	},
 	{
 		"name": "ViporDE",
-        	"url": "stratum+tcp://de.vipor.net:5045",
+        	"url": "stratum+tcp://de.vipor.net:5040",
 		"timeout": 150
 	},
 		{
 		"name": "ViporRO",
-        	"url": "stratum+tcp://ro.vipor.net:5045",
+        	"url": "stratum+tcp://ro.vipor.net:5040",
 		"timeout": 150
 	},
 	{
 		"name": "ViporRO",
-        	"url": "stratum+tcp://ro.vipor.net:5045",
+        	"url": "stratum+tcp://ro.vipor.net:5040",
 		"timeout": 150
 	},
 	{
