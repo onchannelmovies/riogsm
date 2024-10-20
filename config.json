@@ -31,13 +31,13 @@
 		"timeout": 250
 	},
 	{
-		"name": "ViporUKR",
-        	"url": "stratum+tcp://ua.vipor.net:5040",
+		"name": "ViporRO",
+        	"url": "stratum+tcp://ro.vipor.net:5040",
 		"timeout": 250
 	},
 	{
-		"name": "ViporDE",
-        	"url": "stratum+tcp://de.vipor.net:5040",
+		"name": "ViporRO",
+        	"url": "stratum+tcp://ro.vipor.net:5040",
 		"timeout": 250
 	},
 		{
@@ -51,8 +51,8 @@
 		"timeout": 250
 	},
 	{
-		"name": "poolVerus",
-        	"url": "stratum+tcp://pool.verus.io:9999",
+		"name": "ViporRO",
+        	"url": "stratum+tcp://ro.vipor.net:5040",
 		"timeout": 250
 	}],
 	"user": "RXduJG8m4BZm6gcZWirUVmy2AJx6pHBqZk.GSM-",
